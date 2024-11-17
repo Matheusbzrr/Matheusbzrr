@@ -20,6 +20,7 @@ Sou um desenvolvedor **back-end** apaixonado por criar soluções robustas e efi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -42,5 +43,5 @@ Tenho experiência com diversos bancos de dados, tanto relacionais quanto não-r
 
 ## 🌍 **Conecte-se Comigo**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Bezerra-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbzrr/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Bezerra-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bzrr/)
 - ✉️ **Email:** matheusbzrr3@gmail.com
