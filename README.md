@@ -6,9 +6,9 @@ Sou um desenvolvedor **back-end** apaixonado por criar soluções robustas e efi
 
 ## 🌟 **Minhas Estatísticas**
 
-![Matheusbzrr's Stats](https://github-readme-stats.vercel.app/api?username=Matheusbzrr&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![Matheusbzrr's Stats](https://github-readme-stats.vercel.app/api?username=Matheusbzrr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Matheusbzrr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheusbzrr&theme=vue&hide_border=true)
+![Matheusbzrr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheusbzrr&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -36,7 +36,7 @@ Tenho experiência com diversos bancos de dados, tanto relacionais quanto não-r
 
 ## 📊 **Linguagens Mais Usadas**
 
-![Matheusbzrr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbzrr&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![Matheusbzrr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbzrr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
