@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Matheus!
+# 👋 Olá!
 
 Sou um desenvolvedor **back-end** apaixonado por criar soluções robustas e eficientes para os desafios do dia a dia. Com experiência em diversas tecnologias e banco de dados, estou sempre em busca de aprendizado e aprimoramento das minhas habilidades.
 
