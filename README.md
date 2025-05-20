@@ -31,7 +31,6 @@ Tenho experiência com diversos bancos de dados, tanto relacionais quanto não-r
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**: Utilizado em diversos projetos, com foco em modelagem e otimização de consultas.
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**: Experiência com suas funcionalidades avançadas como índices, views e funções armazenadas.
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**: Trabalhei com bancos de dados NoSQL, especialmente para sistemas que exigem escalabilidade e flexibilidade.
-- ![Parse Server](https://img.shields.io/badge/Parse%20Server-2E7BBF?style=for-the-badge&logo=parseserver&logoColor=white) **Parse Server**: Experiência com backend sem servidor, permitindo desenvolver aplicações escaláveis e rápidas.
 
 ---
 
