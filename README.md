@@ -4,24 +4,14 @@ Sou um desenvolvedor **back-end** apaixonado por criar soluções robustas e efi
 
 ---
 
-## 🌟 **Minhas Estatísticas**
-
-![Matheusbzrr's Stats](https://github-readme-stats.vercel.app/api?username=Matheusbzrr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Matheusbzrr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheusbzrr&theme=tokyonight&hide_border=true)
-
----
-
 ## 🛠️ **Tecnologias que Utilizo**
 
 ### Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-Visual%20Studio-blue?style=for-the-badge&logo=data:image/svg+xml;base64,SEUVIEtP...
+)
 ---
 
 ## 🗄️ **Banco de Dados**
